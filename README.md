@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mfigueira
 - 👀 I’m interested in Software Engineering and Web Development, oriented to the Front End of applications 
-- 🌱 I’m always learning! Currently focusing in React JS and Full Stack development
-- 💞️ I’m looking to collaborate on fun and exciting projects, to build myself up as a developer while having a good time also
+- 🌱 I’m always learning. Currently focusing in React, JavaScript, and Full Stack development
+- 💞️ I’m looking to collaborate on fun and exciting projects, to build myself up as a developer while having a good time
 - 📫 How to reach me: manuel.figueira.9@gmail.com
 
 <!---
