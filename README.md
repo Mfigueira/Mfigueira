@@ -1,5 +1,5 @@
 - 🙋🏼‍♂️ Hi, I’m Manu!
-- 💻 I enjoy developing and leading awesome engineering projects
+- 💻 I enjoy developing in awesome engineering projects
 - 🌱 Always improving and learning - Currently focusing on web3
 - 💬 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/manuel-figueira-77389390/) 
 
