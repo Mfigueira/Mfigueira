@@ -1,6 +1,6 @@
 - 🙋🏼‍♂️ Hi, I’m Manu!
-- 💻 I enjoy developing awesome web apps - mostly Frontend!
-- 🌱 Always improving and learning - Currently focusing on web3
+- 💻 I enjoy developing great web apps with awesome teams - Mainly focusing in the frontend side
+- 🌱 Always improving and learning - Currently diving into web3
 - 💬 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/manuel-figueira-77389390/) 
 
 <!---
