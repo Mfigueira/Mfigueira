@@ -1,7 +1,7 @@
-- 🙋🏼‍♂️ Hi, I’m Manu!
-- 💻 I love Frontend and enjoy developing great web apps with awesome teams!
-- 🌱 Always improving and learning - Currently building web3 stuff
-- 💬 How to reach me: [my LinkedIn profile](https://www.linkedin.com/in/manuel-figueira-77389390/) 
+- 🙋🏼‍♂️ Hi! I’m Manu
+- 💻 I love web development, mostly Frontend, and enjoy collaborating with awesome teams building great apps
+- 🌱 Always improving and learning - Currently focusing on web3
+- 💬 How to reach me? [my LinkedIn profile](https://www.linkedin.com/in/manuel-figueira-77389390/) 
 
 <!---
 Mfigueira/Mfigueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
