@@ -1,6 +1,6 @@
 - 🙋🏼‍♂️ Hi! I’m Manu
-- 💻 I love web development, mostly Frontend, and enjoy collaborating with awesome teams building great apps
-- 🌱 Always improving and learning - Currently focusing on web3
+- 💻 Full Stack Engineer
+- ⛓️ Currently building Web3 dApps
 - 💬 How to reach me? [my LinkedIn profile](https://www.linkedin.com/in/manuel-figueira-77389390/) 
 
 <!---
